@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ApiGroupGenerator/obj
+/ApiGroupGenerator/bin/Debug/net6.0
+/IntegrationTest/obj
+/Tests_ApiGroupGenerator/obj
+/Tests_ApiGroupGenerator/bin/Debug/net6.0
